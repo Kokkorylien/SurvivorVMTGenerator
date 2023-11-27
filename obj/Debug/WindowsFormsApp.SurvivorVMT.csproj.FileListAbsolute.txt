@@ -1,0 +1,17 @@
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\WindowsFormsApp.SurvivorVMT.exe.config
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\WindowsFormsApp.SurvivorVMT.exe
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\WindowsFormsApp.SurvivorVMT.pdb
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.csproj.AssemblyReference.cache
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.Form1.resources
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.Properties.Resources.resources
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.csproj.GenerateResource.cache
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.csproj.CoreCompileInputs.cache
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.exe
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.pdb
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\YamlDotNet.dll
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\YamlDotNet.xml
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.csproj.CopyComplete
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\WindowsFormsApp.SurvivorVMT.exe.manifest
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\bin\Debug\WindowsFormsApp.SurvivorVMT.application
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.exe.manifest
+D:\VS_Projects\WindowsFormsApp.SurvivorVMT\obj\Debug\WindowsFormsApp.SurvivorVMT.application
